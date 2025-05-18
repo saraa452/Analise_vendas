@@ -85,7 +85,7 @@ O projeto inclui diversas consultas SQL para responder a perguntas de negócios.
     ORDER BY mes;
     ```
 
-Para mais consultas, veja o arquivo [`consultas.sql`](consultas.sql).
+
 
 ## 🛠️ Tecnologias Utilizadas
 - **Banco de Dados Relacional:** MySQL (ou PostgreSQL, SQLite).
@@ -118,7 +118,6 @@ Aqui estão alguns exemplos de resultados das consultas realizadas:
 | 2024-07  | 6.90          |
 | 2024-08  | 3.40          |
 
-Para mais exemplos, veja a pasta [_'resultados/`](resultados/).
 
 ## 📥 Como Executar
 1. Clone este repositório:
