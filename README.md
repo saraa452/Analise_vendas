@@ -1,4 +1,3 @@
-# Analise_vendas
 # 📊 Análise de Vendas com SQL
 
 Este projeto consiste na criação e análise de um banco de dados fictício para uma loja de varejo. O objetivo é demonstrar habilidades em **SQL**, incluindo a criação de tabelas, inserção de dados e execução de consultas avançadas para extrair insights valiosos sobre vendas, clientes e produtos.
@@ -109,6 +108,7 @@ Aqui estão alguns exemplos de resultados das consultas realizadas:
  
 | Mês      | Receita Total |
 |----------|---------------|
+|          |               |
 | 2023-05  | 5600.00       |
 | 2024-02  | 17000.00      |
 | 2024-03  | 23.25         |
@@ -133,8 +133,8 @@ Para mais exemplos, veja a pasta [_'resultados/`](exemplos_resultados/).
 ## 📧 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
 - **Nome:** Sara Oliveira Guimarães Nascimento
-- **E-mail:**  saraog262@proton.me 
-- **LinkedIn:** (www.linkedin.com/in/sara-oliveira-041a75285)
+- **E-mail:** seuemail@email.com
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
 
 ---
 **⭐ Dica:** Se gostou deste projeto, não esqueça de dar uma estrela no repositório!
