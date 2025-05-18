@@ -118,7 +118,7 @@ Aqui estão alguns exemplos de resultados das consultas realizadas:
 | 2024-07  | 6.90          |
 | 2024-08  | 3.40          |
 
-Para mais exemplos, veja a pasta [_'resultados/`](exemplos_resultados/).
+Para mais exemplos, veja a pasta [_'resultados/`](resultados/).
 
 ## 📥 Como Executar
 1. Clone este repositório:
