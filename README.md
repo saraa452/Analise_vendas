@@ -133,8 +133,8 @@ Para mais exemplos, veja a pasta [_'resultados/`](exemplos_resultados/).
 ## 📧 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
 - **Nome:** Sara Oliveira Guimarães Nascimento
-- **E-mail:** seuemail@email.com
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- **E-mail:** saraog262@proton.me
+- **LinkedIn:** (www.linkedin.com/in/sara-oliveira-041a75285)
 
 ---
 **⭐ Dica:** Se gostou deste projeto, não esqueça de dar uma estrela no repositório!
