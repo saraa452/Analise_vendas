@@ -47,7 +47,7 @@ Analise-de-Vendas-SQL/
 ├── criacao_tabelas.sql     # Script para criar as tabelas
 ├── insercao_dados.sql      # Script para inserir os dados
 ├── consultas.sql           # Todas as consultas SQL
-└── exemplos_resultados/    # Exemplos de saídas das consultas
+└── resultados/    # Exemplos de saídas das consultas
 ```
 
 ## 🚀 Consultas Realizadas
